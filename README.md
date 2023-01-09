@@ -54,7 +54,7 @@ In the library the following operations with matrices are implemented:
 - inverse_matrix (finding inverse of the matrix).
 
 ### Testing
-You can test the library using my unit-tests (file *test.c*). 
+You can test the library using my unit-tests (file **test.c**). 
 
 The tests are made by using the Check library. Apply the next Makefile instructions for checking tests:
 ```bash
